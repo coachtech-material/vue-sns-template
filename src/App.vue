@@ -10,7 +10,7 @@ import TheHeader from "@/components/TheHeader.vue";
 </template>
 
 <style>
-@import "./assets/sanitize.css";
+@import "~sanitize.css";
 
 main {
     padding-top: 104px;
